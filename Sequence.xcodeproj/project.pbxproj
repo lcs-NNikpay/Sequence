@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		0E6C5DB71F7584D70052B5CA /* Sequence.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Sequence.app; path = /Users/rgordon/Downloads/Sequence/build/Debug/Sequence.app; sourceTree = "<absolute>"; };
+		7F9A81051F91112100B3F671 /* Sequence.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Sequence.app; path = "/Users/nnikpay/Documents/Computer Science/Sequence/build/Debug/Sequence.app"; sourceTree = "<absolute>"; };
 		8134E7921C14CD5700EC4523 /* CanvasTestArea.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CanvasTestArea.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -46,7 +46,7 @@
 			);
 			name = Sequence;
 			productName = Animation;
-			productReference = 0E6C5DB71F7584D70052B5CA /* Sequence.app */;
+			productReference = 7F9A81051F91112100B3F671 /* Sequence.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
